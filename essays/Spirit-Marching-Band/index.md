@@ -13,6 +13,32 @@ start:                                   # the year your story begins, shown on 
 # Leave this line as it is.
 layout: essay
 ---
+A Brief History of the University of New Mexico Spirit Marching Band
+
+The Spirit Marching Band at the University of New Mexico (UNM) is one of the university's oldest and most visible student organizations. According to the UNM Bands program, the ensemble has served the university continuously since 1917, making it more than a century old. Throughout its history, the band has functioned as both a musical ensemble and a public ambassador for the university, supporting athletics, school traditions, and community events.
+
+The band's origins coincided with the growth of intercollegiate athletics at UNM in the early twentieth century. While detailed records of its earliest directors are not readily available through current university sources, UNM officially identifies 1917 as the beginning of the Spirit Marching Band's history. Since then, the group has become a fixture at football games, pep rallies, and university ceremonies.
+
+A major element of the band's identity is its performance of"Hail, New Mexico!", the university's official fight song. The song was composed in 1931 by UNM music professor Lena Clauve, with lyrics written by English professor George St. Clair. Since its creation, the fight song has been performed by the Spirit Marching Band at athletic events and ceremonial occasions, helping to define the sound of UNM school spirit.
+
+By the late twentieth century, the ensemble had developed into a full collegiate marching band. Evidence of this period can be seen in a documented 1988 performance by the University of New Mexico Marching Band, then known simply as "The Spirit." At that time, the band was directed by Gregory G. Clemons, assisted by Doug Nottingham and Timothy Dressel. The performance repertoire included traditional university music such as "Hail, New Mexico" and "Fight On, Lobos," along with concert and popular selections.
+
+In the modern era, the Spirit Marching Band has become an integral component of UNM athletics. The band performs at all home football games, taking part in pregame and halftime shows while also leading crowd engagement throughout the game. Members perform for fans in tailgate areas before kickoff and support the student section inside the stadium. The ensemble accompanies the football team to postseason bowl appearances when invited.
+
+The band's role extends beyond game-day entertainment. It serves as a recruiting and outreach organization for the university and hosts the Zia Marching Band Fiesta, described by UNM as one of the largest marching-band competitions in the Southwest. This event brings together high school bands from across the region and strengthens UNM's connections with music programs throughout New Mexico and neighboring states.
+
+Leadership of the Spirit Marching Band has evolved over time. As of the mid-2020s, the ensemble is directed by Dr. Geoffrey Harman, who serves as UNM's Director of Athletic Bands and Assistant Director of Bands. Harman's responsibilities include directing both the Spirit Marching Band and the university's basketball pep band, Soundpack. Under his leadership, the band continues its mission of representing UNM at athletic and public events.
+
+Today, the Spirit Marching Band remains one of the most recognizable organizations on the UNM campus. The university describes its mission as serving as ambassadors for UNM, supporting the Lobos with enthusiasm, and providing high-quality musical performances. More than a century after its founding in 1917, the band continues to be a central part of university traditions and student life.
+
+Sources
+University of New Mexico Bands, “Spirit Marching Band.”
+University of New Mexico Department of Music, “UNM Bands Ensembles.”
+University of New Mexico Course Catalog, “Spirit Marching Band (MUSC 2735).”
+University of New Mexico Bands Home Page.
+University of New Mexico Department of Music, biography of Dr. Geoffrey Harman.
+Wikipedia, “Hail, New Mexico.”
+“University of New Mexico Marching Band ‘The Spirit’ 1988” (archival performance information).
 
 This first paragraph should give readers a quick way into your topic. Start with a scene, a question, a surprising fact, or a problem your essay will explain. You do not need to summarize everything here. Help the reader understand why this campus place, person, organization, object, or event deserves attention.
 
